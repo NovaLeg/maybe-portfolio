@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Portfolio</title>
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+    <header class="header">
+        <div class="pfp-container">
+            <img src="https://cdn.discordapp.com/attachments/1287037441496055879/1304821130569449482/8ce2c955-76ba-4aca-ae6c-e34327b5b565.jpg?ex=6730c8df&is=672f775f&hm=51c4ac29b83d62556b1b3adb3ec463252c8461946ce6e67651422bc77bcf6140&" alt="Profile Picture">
+        </div>
+        <h1 class="title-animate">Maybe A Developer</h1>
+        <p class="subtitle">Hi, I'm Nova. I build digital experiences.</p>
+    </header>
+    
+    <section id="about" class="section">
+        <h2>About Me</h2>
+        <p>I’m a passionate developer who loves creating unique and interactive experiences. Skilled in JavaScript, Python, HTML, and CSS, I'm always eager to explore new technologies.</p>
+    </section>
+    
+    <section id="skills" class="section">
+        <h2>Skills</h2>
+        <p>JavaScript | Python | HTML | CSS | React | Node.js</p>
+    </section>
+    
+    <section id="hobbies" class="section">
+        <h2>Hobbies</h2>
+        <p>Besides coding, I enjoy playing games, exploring new tech, and reading about advancements in AI and machine learning.</p>
+    </section>
+    
+    <section id="contact" class="section">
+        <h2>Contact Me</h2>
+        <p>Reach out at: </p>
+    </section>
+    
+    <script src="portfolio.js"></script>
+</body>
+</html>
